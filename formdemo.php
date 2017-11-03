@@ -20,10 +20,10 @@ and open the template in the editor.
         
         if($u == $myu && $p == $myp)
         
-        echo "success";
+        echo "success fully login";
         
         else 
-            echo "not valid";
+            echo "Invalid password";
             
         
         ?>
